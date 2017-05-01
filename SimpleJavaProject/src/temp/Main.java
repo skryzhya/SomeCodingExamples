@@ -7,7 +7,7 @@ public class Main {
 		System.out.println("Dummy message again!!!!");
 		System.out.println("New Line!");
 		System.out.println("NewLocalBranch1!");
-		System.out.println("Changed by one developer one!");
+		System.out.println("Brand new line by developer two!");
 	}
 
 }
